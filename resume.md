@@ -20,7 +20,7 @@ He practiced Tailwindcss for the frontend,
 Django's Object-Relational Mapping (ORM) for the database,
 and Git for version management and working in a team.
 
-Steven later made a simplified Open Source CLI version of the
+Steven later made a simplified Open Source version of the
 [scraper](https://github.com/SichangHe/scraper)
 without using mutexes or channels.
 It is on [crates.io](https://crates.io/crates/recursive_scraper).
@@ -102,11 +102,13 @@ He also daily-drives a Tiling Window Manager.
 
 #### Operating systems experiences
 
-Steven installed Windows 10 and 11 many times
-and installed several Linux distributions including ArchLinux.
+Steven has plenty of experiences with Windows, macOS, and Linux.
+He installed Windows 10 and 11 many times,
+installed several Linux distributions including ArchLinux,
+and tried to install FreeBSD on Parallels Desktop.
 He did these operating system installations both on hardware,
-on Parallels Desktop on macOS host machines,
-and on QEMU/KVM on Linux host machines.
+on Parallels Desktop,
+and on QEMU/KVM.
 
 Steven tried to make a Hackintosh on hardware but could not enable Wi-Fi.
 He later succeeded using QEMU/KVM on Linux host machines.
