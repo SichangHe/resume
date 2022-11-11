@@ -9,23 +9,29 @@ He is now more interested in Computer Science.
 
 ## Events
 
-### SSO member (2021 - )
+### SSO member (2021/12 - )
 
 SSO is a search engine research project at DKU.
 It has three student members and it is lead by Professor Jiang Long.
 
-Steven wrote a feature-rich web scraper in async Rust for SSO
-and helped the team develop its web server using Django in Python.
-He practiced Tailwindcss for the frontend,
+Steven wrote a feature-rich web scraper in async Rust for SSO.
+He also helped the team develop its web server using Django in Python.
+He practiced HTML and Tailwindcss for the frontend,
 Django's Object-Relational Mapping (ORM) for the database,
-and Git for version management and working in a team.
+and Git for version management and teamwork.
 
-Steven later made a simplified Open Source version of the
+### Developing and maintaining an Open Source scraper (2022/06 - )
+
+Steven learned from his design mistakes in the SSO scraper and
+made a simplified Open Source version of the
 [scraper](https://github.com/SichangHe/scraper)
 without using mutexes or channels.
 It is on [crates.io](https://crates.io/crates/recursive_scraper).
 
-### Academic Resource Center (ARC) tutor (2021 - 2022)
+![Crates.io](https://img.shields.io/crates/v/recursive_scraper)
+![Crates.io](https://img.shields.io/crates/d/recursive_scraper)
+
+### Academic Resource Center (ARC) tutor (2021/05 - )
 
 Steven obtained a CRLA Certificate working at the ARC.
 
@@ -34,12 +40,29 @@ Steven first became a MATH 201 (Multivariate Calculus) tutor,
 and later enjoyed tutoring MATH 105 (Calculus) and COMPSCI 201
 (Algorithms and Data Structures).
 
-### Teaching assistant (TA) for COMPSCI 201 (2021)
+### Teaching assistant (TA) for COMPSCI 201 (2021/11 - 2022/03)
 
 Invited by Professor Jiang Long at DKU,
 Steven worked as a TA for COMPSCI 201 for one session.
+Besides hosting Lab sessions and Office Hours,
+he helped simplify the process to setup the development environment
+for COMPSCI 201 and made text-based and
+[video tutorial](https://www.youtube.com/watch?v=yiL-ULPBkvE&t=22s).
 
-### Intersection editor and translator (2021)
+### PageRank of DKU's website (2021/10 - 2021/11)
+
+Steven calculated the PageRank of DKU's website
+and made it his STATS 210 (Probability and Statistics) project.
+
+He scraped around 8000 webpages using Scrapy
+and calculated the PageRank as a Markov chain using Numpy.
+During this time,
+Steven saw that DKU's website has lots of broken links and a poor performance.
+He was also unsatisfied about Scrapy.
+These observations motivated Steven to build the scraper
+and learn web development.
+
+### Intersection editor and translator (2021/06 - )
 
 [Intersection](https://sites.duke.edu/intersections/)
 at DKU is a bilingual journal written and edited by
@@ -55,7 +78,7 @@ and [Submissions](https://sites.duke.edu/intersections/submissions-2/) page.
 These articles were published on Intersection's WeChat public account
 and its website.
 
-### DKU courses (2021 - 2022)
+### DKU courses (2020 - )
 
 Steven took mainly mathematics courses including Multivariate Calculus,
 Ordinary Differential Equations,
