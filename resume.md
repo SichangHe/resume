@@ -5,14 +5,34 @@
 Steven is a junior at Duke Kunshan University (DKU) majoring in Data Science.
 He is calm, straightforward, helpful, open-minded, curious, and hardworking.
 Steven was very interested in Physics and Biology before he joined DKU.
-He is now more interested in Computer Science.
+He is now more interested in Computer Science,
+especially systems.
 
 ## Events
 
+### Maintaining and developing mdbook-katex (2022/11 - )
+
+Steven took over
+[mdbook-katex on GitHub](https://github.com/lzanini/mdbook-katex),
+a katex preprocessor for mdBook in Rust,
+to maintain and develop it.
+He fixed the CIs for MUSL Linux and Windows build,
+fixed the preprocessor to respect the fenced code block CommonMark
+specification,
+and added new features such as MathML support.
+
+![Crates.io](https://img.shields.io/crates/v/mdbook-katex)
+![Crates.io](https://img.shields.io/crates/d/mdbook-katex)
+
+### Forum using Ruby on Rails (2022/06 - 2022/08)
+
+Steven built an [forum](https://github.com/SichangHe/forum)
+using Ruby on Rails for demonstration purpose.
+The forum has features such as infinitely nested comments and MathJax support.
+
 ### SSO member (2021/12 - )
 
-SSO is a search engine research project at DKU.
-It has three student members and it is lead by Professor Jiang Long.
+SSO is a search engine research project at DKU lead by Professor Jiang Long.
 
 Steven wrote a feature-rich web scraper in async Rust for SSO.
 He also helped the team develop its web server using Django in Python.
@@ -33,20 +53,18 @@ It is on [crates.io](https://crates.io/crates/recursive_scraper).
 
 ### Academic Resource Center (ARC) tutor (2021/05 - )
 
-Steven obtained a CRLA Certificate working at the ARC.
-
-The ARC at DKU provides tutoring services for certain courses.
-Steven first became a MATH 201 (Multivariate Calculus) tutor,
-and later enjoyed tutoring MATH 105 (Calculus) and COMPSCI 201
+Steven obtained a CRLA Certificate working as
+a tutor at the ARC.
+He enjoyed tutoring MATH 201 (Multivariate Calculus),
+MATH 105 (Calculus), and COMPSCI 201
 (Algorithms and Data Structures).
 
 ### Teaching assistant (TA) for COMPSCI 201 (2021/11 - 2022/03)
 
-Invited by Professor Jiang Long at DKU,
-Steven worked as a TA for COMPSCI 201 for one session.
-Besides hosting Lab sessions and Office Hours,
-he helped simplify the process to setup the development environment
-for COMPSCI 201 and made text-based and
+Steven worked as a TA for COMPSCI 201.
+Besides hosting Lab sessions and office hours,
+he helped simplify the setup of the development environment
+and made text-based and
 [video tutorial](https://www.youtube.com/watch?v=yiL-ULPBkvE&t=22s).
 
 ### PageRank of DKU's website (2021/10 - 2021/11)
@@ -80,12 +98,13 @@ and its website.
 
 ### DKU courses (2020 - )
 
-Steven took mainly mathematics courses including Multivariate Calculus,
+Steven took mainly mathematics courses including Analysis,
 Ordinary Differential Equations,
 Advanced Linear Algebra,
 and Statistics.
-He also took two Computer Science courses,
-the three entry courses for Physics, Chemistry, and Biology,
+He also took Computer Science courses on algorithm, systems,
+machine learning, and functional programming,
+the entry courses for Physics, Chemistry, and Biology,
 and some lighter History and Information Science courses.
 
 ### DKU Badminton club active member (2020 -)
@@ -94,22 +113,16 @@ and some lighter History and Information Science courses.
 
 ## Programming Skill
 
-Steven writes all his [notes](https://github.com/SichangHe/notes)
-and most documents in Markdown.
-His notes can be [previewed](https://sichanghe.github.io/notes)
-as a MDBook project.
-Most of his other materials are also available on
-[his GitHub](https://github.com/SichangHe/).
-
-Steven practises programming in his spare time for fun.
-He uses [Exercism](https://exercism.org/profiles/SichangHe)
-besides doing other experiments himself.
-He wrote a scraper in Rust,
-and a [forum](https://github.com/SichangHe/forum)
-using Ruby on Rails.
+Steven writes his [notes](https://github.com/SichangHe/notes)
+in Markdown with LaTeX and builds it into a
+[static site](https://sichanghe.github.io/notes) as an mdBook project.
+He tweaks his [.config](https://github.com/SichangHe/.config)
+hard to ensure a smooth workflow.
 
 ### Programming languages
 
+Steven learn new programming languages for fun using
+[Exercism](https://exercism.org/profiles/SichangHe).
 Language Steven know in descending order of
 preference, familiarity, and proficiency:
 
@@ -126,22 +139,9 @@ He also daily-drives a Tiling Window Manager.
 #### Operating systems experiences
 
 Steven has plenty of experiences with Windows, macOS, and Linux.
-He installed Windows 10 and 11 many times,
-installed several Linux distributions including ArchLinux,
-and tried to install FreeBSD on Parallels Desktop.
-He did these operating system installations both on hardware,
+He has experience installing Windows 10 and 11,
+several Linux distributions,
+and FreeBSD,
+both on hardware,
 on Parallels Desktop,
 and on QEMU/KVM.
-
-Steven tried to make a Hackintosh on hardware but could not enable Wi-Fi.
-He later succeeded using QEMU/KVM on Linux host machines.
-
-#### Text Editor
-
-Steven daily-drives Neovim for programming and note taking.
-Before he moved to Neovim, Steven used Visual Studio Code.
-Before that, he used IntelliJ.
-He also tried Doom Emacs.
-These experiments resulted in a large amount of commits into his
-[.config](https://github.com/SichangHe/.config) repository.
-Most of the Neovim configurations Steven wrote are in Lua.
