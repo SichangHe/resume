@@ -132,11 +132,11 @@ hard to ensure a smooth workflow.
 
 Steven learn new programming languages for fun using
 [Exercism](https://exercism.org/profiles/SichangHe).
-Language Steven know in descending order of
+Popular and notable language Steven know well in descending order of
 preference, familiarity, and proficiency:
 
-Markdown, Rust, Python, LaTeX, JavaScript, Ruby, Lua, HTML, TypeScript, Julia,
-MATLAB, Go, Java, C, CSS, Mathematica, SQL, C++, Bash, Elisp, R, VimScript.
+Rust, Python, LaTeX, JavaScript, Elixir, Ruby, Lua, HTML, TypeScript,
+Go, Java, C, CSS, SQL, Bash.
 
 ### Software Proficiency
 
