@@ -112,7 +112,11 @@ machine learning, and functional programming,
 the entry courses for Physics, Chemistry, and Biology,
 and some lighter History and Information Science courses.
 
-### DKU Badminton club active member (2020 -)
+### DKU sports club (2020 -)
+
+Badminton club active member and judge for one match event.
+Toads Running Club active member when it was active.
+Cycling club and tennis club member.
 
 ### Zhixin High School student (2017 - 2020)
 
