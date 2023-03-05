@@ -27,7 +27,7 @@ and added new features such as MathML support.
 ### Forum using Ruby on Rails (2022/06 - 2022/08)
 
 Steven built an [forum](https://github.com/SichangHe/forum)
-using Ruby on Rails for demonstration purpose.
+using Ruby on Rails and deployed it on Heroku for demonstration purpose.
 The forum has features such as infinitely nested comments and MathJax support.
 
 ### SSO member (2021/12 - )
@@ -36,9 +36,13 @@ SSO is a search engine research project at DKU lead by Professor Jiang Long.
 
 Steven wrote a feature-rich web scraper in async Rust for SSO.
 He also helped the team develop its web server using Django in Python.
-He practiced HTML and Tailwindcss for the frontend,
+He practiced HTML, ECMAScript, and Tailwindcss for the frontend,
 Django's Object-Relational Mapping (ORM) for the database,
 and Git for version management and teamwork.
+
+The scraper had run daily flawlessly since its final deployment.
+It helped the team find 368 broken links on DKU website which
+Steven reported upstream on March 14, 2022.
 
 ### Developing and maintaining an Open Source scraper (2022/06 - )
 
@@ -75,7 +79,8 @@ and made it his STATS 210 (Probability and Statistics) project.
 He scraped around 8000 webpages using Scrapy
 and calculated the PageRank as a Markov chain using Numpy.
 During this time,
-Steven saw that DKU's website has lots of broken links and a poor performance.
+Steven saw that DKU's website had weird problems like infinite recursive URLs
+and poor performance.
 He was also unsatisfied about Scrapy.
 These observations motivated Steven to build the scraper
 and learn web development.
