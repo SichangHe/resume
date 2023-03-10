@@ -4,15 +4,18 @@
 
 Steven is a junior at Duke Kunshan University (DKU).
 He is interested in Computer Science, especially Systems.
-His major is Data Science, and his pseudo-majors are Applied Mathematics
-Math track and Computer Science track,
-since DKU does not offer Computer Science nor double major.
+
+Steven's major is Data Science.
+His pseudo-majors are Applied Mathematics
+Math track and Computer Science track.
+DKU does not offer Computer Science nor double major.
+
 Steven has been involved in several researches and open source projects
 related to Computer Science.
 He is calm, straightforward, helpful, open-minded, curious, independent,
 and hardworking.
 He prioritizes learning more new knowledge and getting things done quickly.
-Besides this,
+Besides these,
 Steven had broad interests in Physics, Biology, History, and Psychology.
 
 ## Events
@@ -33,7 +36,7 @@ and added new features such as MathML support.
 
 ### Forum using Ruby on Rails (2022/06 - 2022/08)
 
-Steven built an [forum](https://github.com/SichangHe/forum)
+Steven built a [forum](https://github.com/SichangHe/forum)
 using Ruby on Rails and deployed it on Heroku for demonstration purpose.
 The forum has features such as infinitely nested comments and MathJax support.
 
@@ -48,8 +51,6 @@ Django's Object-Relational Mapping (ORM) for the database,
 and Git for version management and teamwork.
 
 The scraper had run daily flawlessly since its final deployment.
-It helped the team find 368 broken links on DKU website which
-Steven reported upstream on March 14, 2022.
 
 ### Developing and maintaining an Open Source scraper (2022/06 - )
 
@@ -145,8 +146,13 @@ and some lighter History and Information Science courses.
 
 ### DKU sports club (2020 -)
 
-Badminton club active member and judge for one match event.
+Badminton club active member.
+Judge for the game event held in 2021.
+Plays regularly.
+
 Toads Running Club active member when it was active.
+Chose the routine for the 5km Park Run with Haibei Zhang.
+
 Cycling club and tennis club member.
 
 ### Zhixin High School student (2017 - 2020)
@@ -172,9 +178,11 @@ Go, Java, C, CSS, SQL, Bash.
 ### Software Proficiency
 
 Steven is used to using a terminal to manage files and edit documents.
-He learned Git DevOps from contributing to
-Exercism and other Open Source projects.
-He also daily-drives a Tiling Window Manager.
+He is familiar Git DevOps from contributing to
+Exercism and other Open Source projects,
+and teamwork in iGEM and SSO 
+He also daily-drives Tiling Window Manager Yabai
+and modal editor NeoVim.
 
 #### Operating systems experiences
 
