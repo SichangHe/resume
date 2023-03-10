@@ -5,18 +5,15 @@
 Steven is a junior at Duke Kunshan University (DKU).
 He is interested in Computer Science, especially Systems.
 
-Steven's major is Data Science.
-His pseudo-majors are Applied Mathematics
-Math track and Computer Science track.
-DKU does not offer Computer Science nor double major.
+- Major: Data Science.
+- Pseudo-majors: Applied Mathematics Math track and Computer Science track.
 
-Steven has been involved in several researches and open source projects
-related to Computer Science.
-He is calm, straightforward, helpful, open-minded, curious, independent,
-and hardworking.
-He prioritizes learning more new knowledge and getting things done quickly.
-Besides these,
-Steven had broad interests in Physics, Biology, History, and Psychology.
+    DKU does not offer him Computer Science nor double major.
+- Involved in several Computer Science researches and open source projects.
+- Calm, straightforward, helpful, open-minded, curious, independent,
+    and hardworking.
+- Prioritizes learning more new knowledge and getting things done quickly.
+- Broad interests in Physics, Biology, History, and Psychology.
 
 ## Events
 
@@ -26,10 +23,11 @@ Steven took over
 [mdbook-katex on GitHub](https://github.com/lzanini/mdbook-katex),
 a katex preprocessor for mdBook in Rust,
 to maintain and develop it.
-He fixed the CIs for MUSL Linux and Windows build,
-fixed the preprocessor to respect the fenced code block CommonMark
-specification using a finite state machine,
-and added new features such as MathML support.
+
+- Fixed the CIs for MUSL Linux and Windows build.
+- Fixed the preprocessor to respect the fenced code block CommonMark
+    specification using a finite state machine.
+- Added new features such as MathML support.
 
 ![Crates.io](https://img.shields.io/crates/v/mdbook-katex)
 ![Crates.io](https://img.shields.io/crates/d/mdbook-katex)
@@ -44,13 +42,12 @@ The forum has features such as infinitely nested comments and MathJax support.
 
 SSO is a search engine research project at DKU lead by Professor Jiang Long.
 
-Steven wrote a feature-rich web scraper in async Rust for SSO.
-He also helped the team develop its web server using Django in Python.
-He practiced HTML, ECMAScript, and Tailwindcss for the frontend,
-Django's Object-Relational Mapping (ORM) for the database,
-and Git for version management and teamwork.
-
-The scraper had run daily flawlessly since its final deployment.
+- Wrote a feature-rich web scraper in async Rust.
+    The scraper had run daily flawlessly since its final deployment.
+- Helped the team develop its web server using Django in Python.
+- Practiced HTML, ECMAScript, and Tailwindcss for the frontend.
+- Practiced Django's Object-Relational Mapping (ORM) for the database.
+- Practiced Git for version management and teamwork.
 
 ### Developing and maintaining an Open Source scraper (2022/06 - )
 
@@ -65,50 +62,50 @@ It is on [crates.io](https://crates.io/crates/recursive_scraper).
 
 ### Academic Resource Center (ARC) tutor (2021/05 - )
 
-Steven obtained a CRLA Certificate working as
-a tutor at the ARC.
-He enjoyed tutoring MATH 201 (Multivariate Calculus),
-MATH 105 (Calculus), and COMPSCI 201
-(Algorithms and Data Structures).
+- CRLA Certificate.
+- Tutored MATH 201 (Multivariate Calculus),
+    MATH 105 (Calculus), and COMPSCI 201
+    (Algorithms and Data Structures).
 
 ### Teaching assistant (TA) for COMPSCI 201 (2021/11 - 2022/03)
 
 Steven worked as a TA for COMPSCI 201.
-Besides hosting Lab sessions and office hours,
-he helped simplify the setup of the development environment
-and made text-based and
-[video tutorial](https://www.youtube.com/watch?v=yiL-ULPBkvE&t=22s).
+
+- Hosted Lab sessions and office hours,
+- Helped simplify the setup of the development environment
+    and made text-based and
+    [video tutorial](https://www.youtube.com/watch?v=yiL-ULPBkvE&t=22s).
 
 ### iGEM 2022 DKU team (2021/11 - 2022/10)
 
-Steven's main work was developing the
-[team wiki](https://github.com/SichangHe/igem-2022-dku-backup),
-a static site for text-based content,
-using [mdBook](https://github.com/rust-lang/mdBook).
-He practiced Tailwindcss and JavaScript for the styling and animations,
-Git for version control and teamwork,
-GitLab CI for building the static site,
-and communicating with biology team members.
+- Developed the
+    [team wiki](https://github.com/SichangHe/igem-2022-dku-backup),
+    a static site for text-based content,
+    using [mdBook](https://github.com/rust-lang/mdBook).
+    - Practiced Tailwindcss and JavaScript for the styling and animations.
+    - Learned GitLab CI for building the static site.
+    - Communicated with non-technical team members for the wiki.
+- Pushed the team to fully adopt Git, GitLab, Visual Studio Code.
+    and Markdown.
+    - Practiced and taught Git for version control and teamwork.
+    - Filmed [a how-to video specifically for the
+        team](https://www.youtube.com/watch?v=C-sAGuWM2JM).
 
-Steven pushed the team to fully adopt Git, GitLab, Visual Studio Code,
-and Markdown.
-He filmed [a how-to video specifically for the
-team](https://www.youtube.com/watch?v=C-sAGuWM2JM).
-This effort was big but the success was limited.
-Steven learned that it is almost impossible for most people to leave their
-software comfort zone.
-
-Steven's official role was a modeling team member so he used some protein
-modeling software such as RoseTTAFold, Robetta, and PyMOL.
-He became an advisor for iGEM 2023 DKU team.
+    This effort was big but the success was limited.
+    Steven learned that it is almost impossible for most people to leave their
+    software comfort zone.
+- Worked as a modeling team member and used some protein
+    modeling software: RoseTTAFold, Robetta, PyMOL.
+- Became an advisor for iGEM 2023 DKU team.
 
 ### PageRank of DKU's website (2021/10 - 2021/11)
 
 Steven calculated the PageRank of DKU's website
 and made it his STATS 210 (Probability and Statistics) project.
 
-He scraped around 8000 webpages using Scrapy
-and calculated the PageRank as a Markov chain using Numpy.
+- Scraped around 8000 webpages using Scrapy.
+- Calculated the PageRank as a Markov chain using Numpy.
+
 During this time,
 Steven saw that DKU's website had weird problems like infinite recursive URLs
 and poor performance.
@@ -123,41 +120,40 @@ at DKU is a bilingual journal written and edited by
 the DKU community.
 It is lead by Professor Austin Woerner.
 
-Steven worked as an Chinese editor and translator.
-He translated three articles with others at Intersection
-and reviewed a few articles.
-He worked on the wordings on Intersection's website's
-[About](https://sites.duke.edu/intersections/about/) page
-and [Submissions](https://sites.duke.edu/intersections/submissions-2/) page.
-These articles were published on Intersection's WeChat public account
-and its website.
-
-Steven recorded [a how-to video specifically for the
-team](https://www.youtube.com/watch?v=mYPLp_gtHkM) on using OneDrive and
-Microsoft Word for collaboration.
+- Worked as an Chinese editor and translator.
+    He translated three articles with others at Intersection
+    and reviewed a few articles.
+    These articles were published on Intersection's WeChat public account
+    and its website.
+- Worked on the wordings on Intersection's website's
+    [About](https://sites.duke.edu/intersections/about/) page
+    and [Submissions](https://sites.duke.edu/intersections/submissions-2/) page.
+- Recorded [a how-to video specifically for the
+    team](https://www.youtube.com/watch?v=mYPLp_gtHkM) on using OneDrive and
+    Microsoft Word for collaboration.
 
 ### DKU courses (2020 - )
 
-Steven has fulfilled the major requirements for Applied Mathematics.
-He also took Computer Science courses on algorithm, systems,
-machine learning, and functional programming,
-the entry courses for Physics, Chemistry, and Biology,
-and some lighter History and Information Science courses.
+- All major requirement courses for Applied Mathematics.
+- Computer Science courses on algorithm, systems,
+    machine learning, and functional programming.
+- Entry courses for Physics, Chemistry, and Biology.
+- Lighter History and Information Science courses.
 
 ### DKU sports club (2020 -)
 
-Badminton club active member.
-Judge for the game event held in 2021.
-Plays regularly.
-
-Toads Running Club active member when it was active.
-Chose the routine for the 5km Park Run with Haibei Zhang.
-
-Cycling club and tennis club member.
+- Badminton club active member.
+    Judge for the game event held in 2021.
+    Plays regularly.
+- Toads Running Club active member when it was active.
+    Chose the routine for the 5km Park Run with Haibei Zhang.
+- Cycling club and tennis club member.
 
 ### Zhixin High School student (2017 - 2020)
 
 ## Programming Skill
+
+<!-- TODO: fix this mess. -->
 
 Steven writes his [notes](https://github.com/SichangHe/notes)
 in Markdown with LaTeX and builds it into a
@@ -180,7 +176,7 @@ Go, Java, C, CSS, SQL, Bash.
 Steven is used to using a terminal to manage files and edit documents.
 He is familiar Git DevOps from contributing to
 Exercism and other Open Source projects,
-and teamwork in iGEM and SSO 
+and teamwork in iGEM and SSO
 He also daily-drives Tiling Window Manager Yabai
 and modal editor NeoVim.
 
