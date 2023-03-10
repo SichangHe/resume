@@ -2,11 +2,18 @@
 
 [sichang.he@dukekunshan.edu.cn](sichang.he@dukekunshan.edu.cn)
 
-Steven is a junior at Duke Kunshan University (DKU) majoring in Data Science.
-He is calm, straightforward, helpful, open-minded, curious, and hardworking.
-Steven was very interested in Physics and Biology before he joined DKU.
-He is now more interested in Computer Science,
-especially systems.
+Steven is a junior at Duke Kunshan University (DKU).
+He is interested in Computer Science, especially Systems.
+His major is Data Science, and his pseudo-majors are Applied Mathematics
+Math track and Computer Science track,
+since DKU does not offer Computer Science nor double major.
+Steven has been involved in several researches and open source projects
+related to Computer Science.
+He is calm, straightforward, helpful, open-minded, curious, independent,
+and hardworking.
+He prioritizes learning more new knowledge and getting things done quickly.
+Besides this,
+Steven had broad interests in Physics, Biology, History, and Psychology.
 
 ## Events
 
@@ -18,7 +25,7 @@ a katex preprocessor for mdBook in Rust,
 to maintain and develop it.
 He fixed the CIs for MUSL Linux and Windows build,
 fixed the preprocessor to respect the fenced code block CommonMark
-specification,
+specification using a finite state machine,
 and added new features such as MathML support.
 
 ![Crates.io](https://img.shields.io/crates/v/mdbook-katex)
@@ -30,7 +37,7 @@ Steven built an [forum](https://github.com/SichangHe/forum)
 using Ruby on Rails and deployed it on Heroku for demonstration purpose.
 The forum has features such as infinitely nested comments and MathJax support.
 
-### SSO member (2021/12 - )
+### SSO research assistant (2021/12 - )
 
 SSO is a search engine research project at DKU lead by Professor Jiang Long.
 
@@ -71,6 +78,29 @@ he helped simplify the setup of the development environment
 and made text-based and
 [video tutorial](https://www.youtube.com/watch?v=yiL-ULPBkvE&t=22s).
 
+### iGEM 2022 DKU team (2021/11 - 2022/10)
+
+Steven's main work was developing the
+[team wiki](https://github.com/SichangHe/igem-2022-dku-backup),
+a static site for text-based content,
+using [mdBook](https://github.com/rust-lang/mdBook).
+He practiced Tailwindcss and JavaScript for the styling and animations,
+Git for version control and teamwork,
+GitLab CI for building the static site,
+and communicating with biology team members.
+
+Steven pushed the team to fully adopt Git, GitLab, Visual Studio Code,
+and Markdown.
+He filmed [a how-to video specifically for the
+team](https://www.youtube.com/watch?v=C-sAGuWM2JM).
+This effort was big but the success was limited.
+Steven learned that it is almost impossible for most people to leave their
+software comfort zone.
+
+Steven's official role was a modeling team member so he used some protein
+modeling software such as RoseTTAFold, Robetta, and PyMOL.
+He became an advisor for iGEM 2023 DKU team.
+
 ### PageRank of DKU's website (2021/10 - 2021/11)
 
 Steven calculated the PageRank of DKU's website
@@ -101,12 +131,13 @@ and [Submissions](https://sites.duke.edu/intersections/submissions-2/) page.
 These articles were published on Intersection's WeChat public account
 and its website.
 
+Steven recorded [a how-to video specifically for the
+team](https://www.youtube.com/watch?v=mYPLp_gtHkM) on using OneDrive and
+Microsoft Word for collaboration.
+
 ### DKU courses (2020 - )
 
-Steven took mainly mathematics courses including Analysis,
-Ordinary Differential Equations,
-Advanced Linear Algebra,
-and Statistics.
+Steven has fulfilled the major requirements for Applied Mathematics.
 He also took Computer Science courses on algorithm, systems,
 machine learning, and functional programming,
 the entry courses for Physics, Chemistry, and Biology,
