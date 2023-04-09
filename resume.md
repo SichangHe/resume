@@ -19,7 +19,7 @@ Interested in Computer Science (CS), especially Systems.
 
 Steven took over
 [mdbook-katex on GitHub](https://github.com/lzanini/mdbook-katex),
-a katex preprocessor for mdBook in Rust,
+a KaTeX preprocessor for mdBook in Rust,
 to maintain and develop it.
 
 - Fixed the CIs for MUSL Linux and Windows build.
@@ -53,7 +53,7 @@ to maintain and develop it.
     ![Crates.io](https://img.shields.io/crates/d/recursive_scraper)
 - No mutexes or channels.
 
-### Academic Resource Center (ARC) tutor (2021/05 - )
+### Academic Resource Center (ARC) tutor (2021/05 - 2022/05)
 
 - CRLA Certificate.
 - Tutored MATH 201 (Multivariate Calculus),
@@ -62,8 +62,8 @@ to maintain and develop it.
 
 ### Teaching assistant (TA) for COMPSCI 201 (2021/11 - 2022/03)
 
-- Hosted Lab sessions and office hours,
-- Helped simplify the setup of the development environment
+- Hosted Lab sessions and office hours.
+- Helped simplify the setup of the development environment.
 - Made text-based and
     [video tutorial](https://www.youtube.com/watch?v=yiL-ULPBkvE&t=22s).
 
@@ -76,7 +76,7 @@ to maintain and develop it.
     - Practiced Tailwindcss and JavaScript for the styling and animations.
     - GitLab CI.
     - Communicated with non-technical team members.
-- Pushed the team to fully adopt Git, GitLab, Visual Studio Code.
+- Pushed the team to fully adopt Git, GitLab, Visual Studio Code
     and Markdown.
     - Filmed [a how-to video specifically for the
         team](https://www.youtube.com/watch?v=C-sAGuWM2JM).
@@ -95,18 +95,16 @@ to maintain and develop it.
 - Unsatisfied about Scrapy.
 - Motivated to build the scraper in Rust and learn web development.
 
-### Intersection editor and translator (2021/06 - )
+### Intersections editor and translator (2021/06 - 2021/08)
 
-[Intersection](https://sites.duke.edu/intersections/)
+[Intersections](https://sites.duke.edu/intersections/)
 at DKU is a bilingual journal written and edited by
 the DKU community.
 It is lead by Professor Austin Woerner.
 
-- Worked as an Chinese editor and translator.
-    He translated three articles with others at Intersection
-    and reviewed a few articles.
-    These articles were published on Intersection's WeChat public account
-    and its website.
+- Worked as a Chinese editor and translator.
+    Translated three articles with others and reviewed a few.
+    Published on Intersections' WeChat public account and its website.
 - Worked on the wordings on Intersection's website's
     [About](https://sites.duke.edu/intersections/about/) page
     and [Submissions](https://sites.duke.edu/intersections/submissions-2/) page.
