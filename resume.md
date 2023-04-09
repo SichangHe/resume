@@ -2,17 +2,15 @@
 
 [sichang.he@dukekunshan.edu.cn](sichang.he@dukekunshan.edu.cn)
 
-Steven is a junior at Duke Kunshan University (DKU).
-He is interested in Computer Science, especially Systems.
+Junior at Duke Kunshan University (DKU), a liberal arts college.
+Interested in Computer Science (CS), especially Systems.
 
-- Major: Data Science.
-- Pseudo-majors: Applied Mathematics Math track and Computer Science track.
-
-    DKU does not offer him Computer Science nor double major.
+- Major field of study: CS.
+- Pseudo-majors: CS, Data Science, Applied Mathematics.
 - Involved in several Computer Science researches and open source projects.
 - Calm, straightforward, helpful, open-minded, curious, independent,
     and hardworking.
-- Prioritizes learning more new knowledge and getting things done quickly.
+- Prioritizes learning and getting things done.
 - Broad interests in Physics, Biology, History, and Psychology.
 
 ## Events
@@ -151,41 +149,37 @@ It is lead by Professor Austin Woerner.
 
 ### Zhixin High School student (2017 - 2020)
 
-## Programming Skill
+## Software Development Skill
 
-<!-- TODO: fix this mess. -->
+### [Steven's Notes](https://github.com/SichangHe/notes)
 
-Steven writes his [notes](https://github.com/SichangHe/notes)
-in Markdown with LaTeX and builds it into a
+A book written in Markdown with LaTeX built into a
 [static site](https://sichanghe.github.io/notes) as an mdBook project.
-He tweaks his [.config](https://github.com/SichangHe/.config)
-hard to ensure a smooth workflow.
+
+### [Steven's `.config`](https://github.com/SichangHe/.config)
+
+- Nearly 1000 lines of Lua for Neovim and Yabai.
 
 ### Programming languages
 
-Steven learn new programming languages for fun using
-[Exercism](https://exercism.org/profiles/SichangHe).
-Popular and notable language Steven know well in descending order of
-preference, familiarity, and proficiency:
+Learns new programming languages for fun using
+[Exercism](https://exercism.org/profiles/SichangHe), such as:
 
 Rust, Python, LaTeX, JavaScript, Elixir, Ruby, Lua, HTML, TypeScript,
 Go, Java, C, CSS, SQL, Bash.
 
 ### Software Proficiency
 
-Steven is used to using a terminal to manage files and edit documents.
-He is familiar Git DevOps from contributing to
-Exercism and other Open Source projects,
-and teamwork in iGEM and SSO
-He also daily-drives Tiling Window Manager Yabai
-and modal editor NeoVim.
+- Hardcore terminal user and keyboard user.
+- Daily-drives Tiling Window Manager Yabai and modal editor NeoVim.
+- Familiar with Git DevOps.
+    - Maintains and contributed to Open Source projects.
+    - Teamwork in iGEM and SSO.
 
 #### Operating systems experiences
 
-Steven has plenty of experiences with Windows, macOS, and Linux.
-He has experience installing Windows 10 and 11,
-several Linux distributions,
-and FreeBSD,
-both on hardware,
-on Parallels Desktop,
-and on QEMU/KVM.
+Plenty of experiences with Windows, macOS, and Linux.
+
+- Experience installing Windows 10 and 11,
+    several Linux distributions, and FreeBSD,
+- On hardware, on Parallels Desktop, and on QEMU/KVM.
