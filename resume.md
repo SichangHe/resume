@@ -2,169 +2,116 @@
 
 [sichang.he@dukekunshan.edu.cn](sichang.he@dukekunshan.edu.cn)
 
-Junior at Duke Kunshan University (DKU), a liberal arts college.
-Interested in Computer Science (CS), especially Systems.
+[SichangHe@GitHub](https://github.com/SichangHe)
 
-- Major field of study: CS.
+- Major interests: Computer Science (CS)—Systems.
+- Software engineer in Computer Science researches and open source projects.
+- Junior at Duke Kunshan University (DKU).
 - Pseudo-majors: CS, Data Science, Applied Mathematics.
-- Involved in several Computer Science researches and open source projects.
+
+---
+
 - Calm, straightforward, helpful, open-minded, curious, independent,
-    and hardworking.
+    hardworking.
 - Prioritizes learning and getting things done.
-- Broad interests in Physics, Biology, History, and Psychology.
+- Broad interests in Physics, Biology, History, Psychology.
 
 ## Events
 
-### Maintaining and developing mdbook-katex (2022/11 - )
+### Maintain & develop [mdbook-katex](https://github.com/lzanini/mdbook-katex) (2022/11 - )
 
-Steven took over
-[mdbook-katex on GitHub](https://github.com/lzanini/mdbook-katex),
-a KaTeX preprocessor for mdBook in Rust,
-to maintain and develop it.
-
-- Fixed the CIs for MUSL Linux and Windows build.
-- Fixed the preprocessor to respect the fenced code block CommonMark
-    specification using a finite state machine.
-- Added new features such as MathML support.
-
-![Crates.io](https://img.shields.io/crates/v/mdbook-katex)
+A KaTeX preprocessor for mdBook in **Rust**.\
+[![Crates.io](https://img.shields.io/crates/v/mdbook-katex)](https://crates.io/crates/mdbook-katex)
 ![Crates.io](https://img.shields.io/crates/d/mdbook-katex)
 
-### Forum using Ruby on Rails (2022/06 - 2022/08)
+- **Fixed bugs**, e.g. the **CI**s for MUSL Linux and Windows build.
+- **Added features**, e.g. respect fenced code block CommonMark specification
+    using a **finite state machine**, math source inclusion, custom delimiters.
+- Helper script [mdbook_katex_css_download](https://github.com/SichangHe/mdbook_katex_css_download).\
+    [![Crates.io](https://img.shields.io/crates/v/mdbook_katex_css_download)](https://crates.io/crates/mdbook_katex_css_download)
+    ![Crates.io](https://img.shields.io/crates/d/mdbook_katex_css_download)
+- Drink my own champagne in [**my notes**](https://github.com/SichangHe/notes),
+    [static site](https://sichanghe.github.io/notes)
+    written in Markdown with LaTeX.
 
-- [Forum](https://github.com/SichangHe/forum) using Ruby on Rails.
-- Deployed it on Heroku.
-- Features such as infinitely nested comments and MathJax support.
+### Research assistant (RA) for search engine research project (SSO) (2021/12 - )
 
-### Search engine project research assistant (RA) (2021/12 - )
+- Wrote a **web scraper** in **async Rust**.
+    - Rich features & stable in production.
+- @DKU, lead by Professor Jiang Long.
+- Django, HTML, ECMAScript, Tailwindcss.
 
-- SSO, a search engine research project at DKU lead by Professor Jiang Long.
-- Wrote a web scraper in async Rust.
-    - Rich features.
-    - Had run daily flawlessly since its final deployment.
-- Practiced Django, HTML, ECMAScript, and Tailwindcss.
+### Author & maintain [recursive_scraper](https://github.com/SichangHe/scraper) (2022/06 - )
 
-### Developing and maintaining an Open Source scraper (2022/06 - )
+Recursive, constant frequency, async scraper.\
+[![Crates.io](https://img.shields.io/crates/v/recursive_scraper)](https://crates.io/crates/recursive_scraper)
+![Crates.io](https://img.shields.io/crates/d/recursive_scraper)
 
-- Learned from design mistakes in the SSO scraper.
-- Simplified [scraper](https://github.com/SichangHe/scraper)
-    on [crates.io](https://crates.io/crates/recursive_scraper).
-    ![Crates.io](https://img.shields.io/crates/v/recursive_scraper)
-    ![Crates.io](https://img.shields.io/crates/d/recursive_scraper)
-- No mutexes or channels.
-
-### Academic Resource Center (ARC) tutor (2021/05 - 2022/05)
-
-- CRLA Certificate.
-- Tutored MATH 201 (Multivariate Calculus),
-    MATH 105 (Calculus), and COMPSCI 201
-    (Algorithms and Data Structures).
-
-### Teaching assistant (TA) for COMPSCI 201 (2021/11 - 2022/03)
-
-- Hosted Lab sessions and office hours.
-- Helped simplify the setup of the development environment.
-- Made text-based and
-    [video tutorial](https://www.youtube.com/watch?v=yiL-ULPBkvE&t=22s).
+- **No mutexes or channels**, elegant async solution.
 
 ### iGEM 2022 DKU team (2021/11 - 2022/10)
 
-- Developed the
-    [team wiki](https://github.com/SichangHe/igem-2022-dku-backup),
-    a static site for text-based content,
-    using [mdBook](https://github.com/rust-lang/mdBook).
-    - Practiced Tailwindcss and JavaScript for the styling and animations.
-    - GitLab CI.
-    - Communicated with non-technical team members.
-- Pushed the team to fully adopt Git, GitLab, Visual Studio Code
-    and Markdown.
-    - Filmed [a how-to video specifically for the
+- [Team wiki](https://github.com/SichangHe/igem-2022-dku-backup),
+    **static site** built with [mdBook](https://github.com/rust-lang/mdBook).
+    - Tailwindcss, JavaScript animations, GitLab CI.
+    - Communication with non-technical members.
+- Pushed the team to fully adopt Git, GitLab, Visual Studio Code, Markdown.
+    - [VS Code & Git intro video for the
         team](https://www.youtube.com/watch?v=C-sAGuWM2JM).
-    - Big effort and limited success.
     - Learned ordinary people's software comfort zone limit.
-- Modeling team member.
-    - Used protein modeling software: RoseTTAFold, Robetta, PyMOL.
+- Protein modeling software: RoseTTAFold, Robetta, PyMOL.
 - Advisor for iGEM 2023 DKU team.
+
+### Ruby on Rails [forum](https://github.com/SichangHe/forum) (2022/06 - 2022/08)
+
+### Academic Resource Center (ARC) tutor (2021/05 - 2022/05)
+
+- **CRLA Certificate**.
+- MATH 201 (Multivariate Calculus), MATH 105 (Calculus),
+    COMPSCI 201 (Algorithms and Data Structures).
+
+### Teaching assistant (TA) for COMPSCI 201 (2021/11 - 2022/03)
+
+- Hosted **Lab sessions** and office hours.
+- Helped simplify development environment setup.
+- Text-based and [video tutorial](https://www.youtube.com/watch?v=yiL-ULPBkvE).
 
 ### PageRank of DKU's website (2021/10 - 2021/11)
 
 - Scraped around 8000 webpages using Scrapy.
-- Calculated the PageRank of DKU's website as a Markov chain using Numpy.
-- Saw that DKU's website had weird problems like infinite recursive URLs and
-    poor performance.
-- Unsatisfied about Scrapy.
-- Motivated to build the scraper in Rust and learn web development.
+- Calculated PageRank as a Markov chain using Numpy.
 
-### Intersections editor and translator (2021/06 - 2021/08)
+### [Intersections](https://sites.duke.edu/intersections/) editor and translator (2021/06 - 2021/08)
 
-[Intersections](https://sites.duke.edu/intersections/)
-at DKU is a bilingual journal written and edited by
-the DKU community.
-It is lead by Professor Austin Woerner.
-
-- Worked as a Chinese editor and translator.
-    Translated three articles with others and reviewed a few.
-    Published on Intersections' WeChat public account and its website.
-- Worked on the wordings on Intersection's website's
-    [About](https://sites.duke.edu/intersections/about/) page
-    and [Submissions](https://sites.duke.edu/intersections/submissions-2/) page.
-- Recorded [a how-to video specifically for the
-    team](https://www.youtube.com/watch?v=mYPLp_gtHkM) on using OneDrive and
-    Microsoft Word for collaboration.
+- Lead by Professor Austin Woerner.
+- [Video tutorial: using OneDrive and Microsoft Word for collaboration](https://www.youtube.com/watch?v=mYPLp_gtHkM).
 
 ### DKU courses (2020 - )
 
-- All major requirement courses for Applied Mathematics.
+- All major requirement for Applied Mathematics.
 - Computer Science courses on algorithm, systems,
-    machine learning, and functional programming.
-- Entry courses for Physics, Chemistry, and Biology.
+    machine learning, functional programming.
+- Entry courses for Physics, Chemistry, Biology.
 - Lighter History and Information Science courses.
 
-### DKU sports club (2020 -)
-
-- Badminton club active member.
-    Judge for the game event held in 2021.
-    Plays regularly.
-- Toads Running Club active member when it was active.
-    Chose the routine for the 5km Park Run with Haibei Zhang.
-- Cycling club and tennis club member.
+### DKU sports clubs: Badminton/Running/Cycling (2020 -)
 
 ### Zhixin High School student (2017 - 2020)
 
-## Software Development Skill
+## Fun
 
-### Steven's Notes
-
-[A book](https://github.com/SichangHe/notes)
-written in Markdown with LaTeX built into a
-[static site](https://sichanghe.github.io/notes) as an mdBook project.
-
-### Steven's configuration files
-
-[`.config`](https://github.com/SichangHe/.config).
-
-- Nearly 1000 lines of Lua for Neovim and Yabai.
-
-### Programming languages
-
-Learns new programming languages for fun using
-[Exercism](https://exercism.org/profiles/SichangHe), such as:
-
-Rust, Python, LaTeX, JavaScript, Elixir, Ruby, Lua, HTML, TypeScript,
-Go, Java, C, CSS, SQL, Bash.
-
-### Software Proficiency
-
-- Hardcore terminal user and keyboard user.
-- Daily-drives Tiling Window Manager Yabai and modal editor NeoVim.
-- Familiar with Git DevOps.
+- Git **DevOps**.
     - Maintains and contributed to Open Source projects.
     - Teamwork in iGEM and SSO.
-
-#### Operating systems experiences
-
-Plenty of experiences with Windows, macOS, and Linux.
-
-- Experience installing Windows 10 and 11,
-    several Linux distributions, and FreeBSD,
-- On hardware, on Parallels Desktop, and on QEMU/KVM.
+- [My `.config`](https://github.com/SichangHe/.config),
+    ~1000 lines of **Lua** for Neovim, Yabai, etc.
+- Learn programming languages on
+    [Exercism](https://exercism.org/profiles/SichangHe), e.g.:
+    Rust, Python, LaTeX, JavaScript, Elixir, Ruby, Lua, HTML, TypeScript,
+    Go, Java, C, CSS, SQL, Bash.
+- Hardcore **terminal user** and **keyboard user**.
+- Daily-drives **Tiling Window Manager** Yabai and modal editor **Neovim**.
+- **Operating systems** experiences:
+    - Installing Windows 10 & 11,
+        several **Linux** distributions (Arch BTW), FreeBSD,
+    - On hardware, on Parallels Desktop, on QEMU/KVM.
