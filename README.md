@@ -1,6 +1,6 @@
 # Steven's Resumé
 
-![Version](https://img.shields.io/github/v/release/SichangHe/resume)
+[![Version](https://img.shields.io/github/v/release/SichangHe/resume)](https://github.com/SichangHe/resume/releases/latest)
 
 - [Markdown version](https://github.com/SichangHe/resume/blob/main/resume.md).
 - [PDF version](https://github.com/SichangHe/resume/releases).

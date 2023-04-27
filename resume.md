@@ -18,7 +18,7 @@
 
 ## Events
 
-### Maintain & develop [mdbook-katex](https://github.com/lzanini/mdbook-katex) (2022/11 - )
+### Maintain & develop [mdBook-KaTeX](https://github.com/lzanini/mdbook-katex) (2022/11 - )
 
 A KaTeX preprocessor for mdBook in **Rust**.\
 [![Crates.io](https://img.shields.io/crates/v/mdbook-katex)](https://crates.io/crates/mdbook-katex)
@@ -27,6 +27,8 @@ A KaTeX preprocessor for mdBook in **Rust**.\
 - **Fixed bugs**, e.g. the **CI**s for MUSL Linux and Windows build.
 - **Added features**, e.g. respect fenced code block CommonMark specification
     using a **finite state machine**, math source inclusion, custom delimiters.
+- **Improved speed** by sometimes 10x by **multithreading** and
+    avoiding double runs.
 - Helper script [mdbook_katex_css_download](https://github.com/SichangHe/mdbook_katex_css_download).\
     [![Crates.io](https://img.shields.io/crates/v/mdbook_katex_css_download)](https://crates.io/crates/mdbook_katex_css_download)
     ![Crates.io](https://img.shields.io/crates/d/mdbook_katex_css_download)
@@ -43,11 +45,16 @@ A KaTeX preprocessor for mdBook in **Rust**.\
 
 ### Author & maintain [recursive_scraper](https://github.com/SichangHe/scraper) (2022/06 - )
 
-Recursive, constant frequency, async scraper.\
+Recursive, constant frequency, async scraper in Rust.\
 [![Crates.io](https://img.shields.io/crates/v/recursive_scraper)](https://crates.io/crates/recursive_scraper)
 ![Crates.io](https://img.shields.io/crates/d/recursive_scraper)
 
 - **No mutexes or channels**, elegant async solution.
+
+### RA for Federated Learning research project ([FedCampus](https://github.com/FedCampus)) (2023/03 - )
+
+- Android development, [Flower](https://flower.dev), TensorFlow Lite, Django.
+- From MQTT to REST + gRPC.
 
 ### iGEM 2022 DKU team (2021/11 - 2022/10)
 
@@ -60,9 +67,6 @@ Recursive, constant frequency, async scraper.\
         team](https://www.youtube.com/watch?v=C-sAGuWM2JM).
     - Learned ordinary people's software comfort zone limit.
 - Protein modeling software: RoseTTAFold, Robetta, PyMOL.
-- Advisor for iGEM 2023 DKU team.
-
-### Ruby on Rails [forum](https://github.com/SichangHe/forum) (2022/06 - 2022/08)
 
 ### Academic Resource Center (ARC) tutor (2021/05 - 2022/05)
 
@@ -76,15 +80,16 @@ Recursive, constant frequency, async scraper.\
 - Helped simplify development environment setup.
 - Text-based and [video tutorial](https://www.youtube.com/watch?v=yiL-ULPBkvE).
 
-### PageRank of DKU's website (2021/10 - 2021/11)
+### [Poster in D3.js & Svelte & TypeScript](https://github.com/SichangHe/STATS401_final_project) (2023/02 - 2023/03)
 
-- Scraped around 8000 webpages using Scrapy.
-- Calculated PageRank as a Markov chain using Numpy.
+### [Forum in Ruby on Rails](https://github.com/SichangHe/forum) (2022/06 - 2022/08)
+
+### [PageRank DKU website with Scrapy & Numpy](https://github.com/SichangHe/STATS210_final_project) (2021/10 - 2021/11)
 
 ### [Intersections](https://sites.duke.edu/intersections/) editor and translator (2021/06 - 2021/08)
 
 - Lead by Professor Austin Woerner.
-- [Video tutorial: using OneDrive and Microsoft Word for collaboration](https://www.youtube.com/watch?v=mYPLp_gtHkM).
+- [Video tutorial: OneDrive and Microsoft Word for collaboration](https://www.youtube.com/watch?v=mYPLp_gtHkM).
 
 ### DKU courses (2020 - )
 
@@ -101,7 +106,7 @@ Recursive, constant frequency, async scraper.\
 ## Fun
 
 - Git **DevOps**.
-    - Maintains and contributed to Open Source projects.
+    - [Maintains and contributed to Open Source projects](https://github.com/SichangHe#js-contribution-activity).
     - Teamwork in iGEM and SSO.
 - [My `.config`](https://github.com/SichangHe/.config),
     ~1000 lines of **Lua** for Neovim, Yabai, etc.
